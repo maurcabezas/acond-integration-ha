@@ -1,0 +1,9 @@
+{
+  "domain": "acond",
+  "name": "Acond Heat Pump",
+  "version": "1.0.0",
+  "documentation": "https://github.com/maurcabezas/acond-integration-ha",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@maurcabezas"]
+}
